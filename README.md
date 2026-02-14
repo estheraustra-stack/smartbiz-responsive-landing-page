@@ -1,0 +1,1 @@
+# smartbiz-responsive-landing-page
