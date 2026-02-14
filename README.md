@@ -16,7 +16,7 @@ A modern and fully responsive landing page built using HTML5 and CSS3.
 - Media Queries
 
 ## 🚀 Live Demo
-https://yourusername.github.io/smartbiz-responsive-landing-page/
+https://estheraustra-stack.github.io/smartbiz-responsive-landing-page/
 
 ## 📱 Responsive Design
 This project adapts perfectly to desktop, tablet, and mobile screens.
